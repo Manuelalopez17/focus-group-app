@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import logoImage from "../assets/logoFocusGroup.png"; // ← Nombre corregido
+import logoImage from "../assets/LogoFocusGroup.png"; // ← Nombre corregido
 import "./HomePage.css";
 
 const HomePage = () => {
